@@ -28,7 +28,7 @@ El proyecto propone una solución inteligente para analizar patrones de consumo 
 
 Certificación de fundamentos de infraestructura cloud de Oracle.
 
-![Oracle Certified Foundations Associate](assets/OCI26FNDCFA.jpg)
+![[Oracle Certified Foundations Associate](assets/OCI26FNDCFA.jpg](https://catalog-education.oracle.com/pls/certview/sharebadge?id=02EFADDC358BDA6164E89ACAF0A12F41A13EBDA02D548C63352AC441A6581C98))
 
 ---
 
