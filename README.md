@@ -30,7 +30,7 @@ El proyecto propone una solución inteligente para analizar patrones de consumo 
 
 Certificación de fundamentos de infraestructura cloud de Oracle.
 
-<img width="400" height="200" alt="OCI26FNDCFA" src="https://github.com/user-attachments/assets/dde30b7b-2c08-4697-886a-589ae1791bb2" />
+<img width="300" height="100" alt="OCI26FNDCFA" src="https://github.com/user-attachments/assets/dde30b7b-2c08-4697-886a-589ae1791bb2" />
 
 * Certificado Oracle: [Certificado OCI](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=02EFADDC358BDA6164E89ACAF0A12F41A13EBDA02D548C63352AC441A6581C98)
 
