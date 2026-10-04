@@ -1,20 +1,45 @@
 # 👋 ¡Hola! Soy Erick Rivas
 
-### Data Science | Python | Machine Learning | Desarrollo de soluciones tecnológicas
+### Data Science | Artificial Intelligence | Python | Machine Learning | Oracle Cloud
 
 Soy un profesional enfocado en el análisis de datos, desarrollo de soluciones tecnológicas y automatización de procesos.
 
-Mi interés es transformar datos en información útil para la toma de decisiones, combinando programación, análisis estadístico y modelos de Machine Learning.
+Me interesa transformar datos en información estratégica mediante programación, análisis estadístico, inteligencia artificial y tecnologías cloud.
+
+He participado en proyectos de innovación tecnológica, incluyendo el desarrollo de **EnergiAI**, solución de inteligencia energética con la que obtuvimos el título de campeones en un hackathon del programa ONE, junto a mi equipo de trabajo.
+
+Además, cuento con la certificación **Oracle Certified Foundations Associate – Oracle Cloud Infrastructure (2026)**.
 
 ---
 
-## 🚀 Sobre mí
+## 🏆 Logros y certificaciones
 
-* 📊 Análisis exploratorio de datos y Data Analytics.
-* 🤖 Desarrollo y evaluación de modelos de Machine Learning.
-* 🐍 Desarrollo con Python y herramientas de ciencia de datos.
-* ⚡ Soluciones inteligentes aplicadas a eficiencia energética.
-* 🔧 Automatización y desarrollo de soluciones tecnológicas.
+### 🥇 Campeón – Hackathon ONE
+
+**Proyecto: EnergiAI – Inteligencia Energética**
+
+Reconocimiento obtenido junto a mi equipo de trabajo en un reto de hackathon del programa ONE, enfocado en sostenibilidad, energía y casas inteligentes.
+
+El proyecto propone una solución inteligente para analizar patrones de consumo eléctrico, clasificar perfiles energéticos y generar recomendaciones orientadas a la eficiencia energética.
+
+### ☁️ Oracle Certified Foundations Associate
+
+**Oracle Cloud Infrastructure – 2026**
+
+Certificación de fundamentos de infraestructura cloud de Oracle.
+
+![Oracle Certified Foundations Associate](assets/OCI26FNDCFA.jpg)
+
+---
+
+## 🚀 Áreas de especialización
+
+* 📊 Data Analytics y análisis exploratorio de datos.
+* 🤖 Machine Learning y modelos predictivos.
+* 🐍 Desarrollo con Python y herramientas de Data Science.
+* ☁️ Fundamentos de Cloud Computing.
+* 🔧 Desarrollo e integración de soluciones tecnológicas.
+* ⚡ Inteligencia energética y sostenibilidad.
 * 📈 Visualización de datos y generación de insights.
 
 ---
@@ -28,6 +53,10 @@ Mi interés es transformar datos en información útil para la toma de decisione
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+
+### Cloud Computing
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
 ### Visualización y análisis
 
@@ -47,17 +76,21 @@ Mi interés es transformar datos en información útil para la toma de decisione
 
 ## 📌 Proyectos destacados
 
-### ⚡ EnergiAI — Inteligencia energética
+### ⚡ EnergiAI — Inteligencia Energética
 
-Solución orientada al análisis del consumo eléctrico, clasificación de perfiles energéticos y generación de recomendaciones para promover la eficiencia energética.
+🥇 Campeón del Hackathon ONE junto a mi equipo de trabajo.
 
-**Tecnologías:** Python, Machine Learning, Java, API REST y ONNX.
+Solución inteligente orientada al análisis del consumo eléctrico, clasificación de perfiles energéticos y generación de recomendaciones para promover la eficiencia energética.
 
-[Ver proyecto](https://github.com/No-Country-simulation/G9-LATAM-Team-18---EnergiAI-)
+**Tecnologías:** Python, Machine Learning, Java, API REST, ONNX y PostgreSQL.
+
+[Ver proyecto en GitHub](https://github.com/No-Country-simulation/G9-LATAM-Team-18---EnergiAI-)
 
 ### 📊 Telecom X — Análisis de Churn
 
-Proyecto de análisis de datos para identificar patrones asociados a la evasión de clientes y generar recomendaciones de retención.
+Proyecto de análisis de datos para identificar patrones relacionados con la evasión de clientes y generar recomendaciones de retención.
+
+Incluye análisis exploratorio, visualización de datos y evaluación de modelos de Machine Learning.
 
 **Tecnologías:** Python, Pandas, Matplotlib, Seaborn y Scikit-learn.
 
@@ -65,21 +98,21 @@ Proyecto de análisis de datos para identificar patrones asociados a la evasión
 
 ---
 
-## 📚 Formación y aprendizaje
+## 📚 Formación continua
 
 * Ciencia de datos y análisis estadístico.
-* Modelos supervisados de Machine Learning.
-* Preparación y transformación de datos.
+* Machine Learning y modelos predictivos.
 * Desarrollo de soluciones basadas en datos.
+* Fundamentos de infraestructura Cloud.
+* Automatización y tecnologías emergentes.
 
 ---
 
 ## 📫 Contacto
 
 * GitHub: [@Ekrivas-sketch](https://github.com/Ekrivas-sketch)
-* LinkedIn: [Agregar perfil de LinkedIn](#)
+* LinkedIn: [Agregar enlace de LinkedIn](#)
 
 ---
 
 *Transformando datos en conocimiento y conocimiento en soluciones.*
-
