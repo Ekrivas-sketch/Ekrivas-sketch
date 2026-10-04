@@ -22,7 +22,7 @@ Reconocimiento obtenido junto a mi equipo de trabajo en un reto de hackathon del
 
 El proyecto propone una solución inteligente para analizar patrones de consumo eléctrico, clasificar perfiles energéticos y generar recomendaciones orientadas a la eficiencia energética.
 
-https://credsverse.com/credentials/2827a377-6d42-4837-b49a-bf64ee5c6bb6?preview=1
+* Certificado Hakathon ONE: [Certificado Hakathon](https://credsverse.com/credentials/2827a377-6d42-4837-b49a-bf64ee5c6bb6?preview=1)
 
 ### ☁️ Oracle Certified Foundations Associate
 
@@ -115,7 +115,7 @@ Incluye análisis exploratorio, visualización de datos y evaluación de modelos
 ## 📫 Contacto
 
 * GitHub: [@Ekrivas-sketch](https://github.com/Ekrivas-sketch)
-* LinkedIn: [Agregar enlace de LinkedIn](#)
+* LinkedIn: [Agregar enlace de LinkedIn](www.linkedin.com/in/erick-rivas)
 
 ---
 
