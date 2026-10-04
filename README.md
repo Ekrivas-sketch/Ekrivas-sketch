@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Erick Rivas
 
-### Data Science | Artificial Intelligence | Python | Machine Learning | Oracle Cloud
+### Data Science | Data Analyst | Reporting | Python | Machine Learning | Desarrollo de soluciones tecnológicas
 
 Soy un profesional enfocado en el análisis de datos, desarrollo de soluciones tecnológicas y automatización de procesos.
 
