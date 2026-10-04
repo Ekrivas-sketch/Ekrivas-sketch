@@ -22,11 +22,15 @@ Reconocimiento obtenido junto a mi equipo de trabajo en un reto de hackathon del
 
 El proyecto propone una solución inteligente para analizar patrones de consumo eléctrico, clasificar perfiles energéticos y generar recomendaciones orientadas a la eficiencia energética.
 
+https://credsverse.com/credentials/2827a377-6d42-4837-b49a-bf64ee5c6bb6?preview=1
+
 ### ☁️ Oracle Certified Foundations Associate
 
 **Oracle Cloud Infrastructure – 2026**
 
 Certificación de fundamentos de infraestructura cloud de Oracle.
+
+<img width="552" height="276" alt="OCI26FNDCFA" src="https://github.com/user-attachments/assets/dde30b7b-2c08-4697-886a-589ae1791bb2" />
 
 https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=02EFADDC358BDA6164E89ACAF0A12F41A13EBDA02D548C63352AC441A6581C98
 
