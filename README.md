@@ -114,7 +114,7 @@ Incluye análisis exploratorio, visualización de datos y evaluación de modelos
 ## 📫 Contacto
 
 * GitHub: [EkRivas-sketch](https://github.com/Ekrivas-sketch)
-* LinkedIn: [Erick Rivas](www.linkedin.com/in/erick-rivas)
+* LinkedIn: www.linkedin.com/in/erick-rivas
 ---
 
 *Transformando datos en conocimiento y conocimiento en soluciones.*
