@@ -4,9 +4,9 @@
 
 Profesional enfocado en el análisis de datos, desarrollo de soluciones tecnológicas y automatización de procesos.
 
-Me interesa transformar datos en información estratégica mediante programación, análisis estadístico, inteligencia artificial y tecnologías cloud.
+Mi enfoque es transformar datos en información estratégica mediante programación, análisis estadístico, inteligencia artificial y tecnologías cloud.
 
-He participado en proyectos de innovación tecnológica, incluyendo el desarrollo de **EnergiAI**, solución de inteligencia energética con la que obtuvimos el título de campeones en un hackathon del programa ONE, junto a mi equipo de trabajo.
+He participado en proyectos de innovación tecnológica, incluyendo el desarrollo de **EnergiAI**, solución de inteligencia energética con la que obtuvimos el título de campeones en un hackathon del programa ONE(Oracle Next Education), junto a mi equipo de trabajo.
 
 Además, cuento con la certificación **Oracle Certified Foundations Associate – Oracle Cloud Infrastructure (2026)**.
 
