@@ -2,7 +2,7 @@
 
 ### Data Science | Data Analyst | Reporting | Python | Machine Learning | Desarrollo de soluciones tecnológicas
 
-Soy un profesional enfocado en el análisis de datos, desarrollo de soluciones tecnológicas y automatización de procesos.
+Profesional enfocado en el análisis de datos, desarrollo de soluciones tecnológicas y automatización de procesos.
 
 Me interesa transformar datos en información estratégica mediante programación, análisis estadístico, inteligencia artificial y tecnologías cloud.
 
